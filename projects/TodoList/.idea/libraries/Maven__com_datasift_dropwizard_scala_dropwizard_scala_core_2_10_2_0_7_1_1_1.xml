@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.datasift.dropwizard.scala:dropwizard-scala-core_2.10.2:0.7.1-1-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/datasift/dropwizard/scala/dropwizard-scala-core_2.10.2/0.7.1-1-1/dropwizard-scala-core_2.10.2-0.7.1-1-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/datasift/dropwizard/scala/dropwizard-scala-core_2.10.2/0.7.1-1-1/dropwizard-scala-core_2.10.2-0.7.1-1-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/datasift/dropwizard/scala/dropwizard-scala-core_2.10.2/0.7.1-1-1/dropwizard-scala-core_2.10.2-0.7.1-1-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
