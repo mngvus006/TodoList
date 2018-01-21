@@ -4,7 +4,7 @@
 		module="todolist-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20180112112914"
+		publication="20180121002527"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
