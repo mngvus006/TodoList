@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dropwizard-scala_2.10-0.7.02">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.massrelevance/dropwizard-scala_2.10/jars/dropwizard-scala_2.10-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

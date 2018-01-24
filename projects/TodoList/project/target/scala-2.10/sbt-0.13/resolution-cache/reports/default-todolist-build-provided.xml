@@ -9,7 +9,7 @@
 		extra-sbtVersion="0.13"
 		conf="provided"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20180121002527"/>
+		date="20180123140831"/>
 	<dependencies>
 		<module organisation="org.scala-sbt" name="sbt">
 			<revision name="0.13.16" status="release" pubdate="20170726165851" resolver="sbt-chain" artresolver="sbt-chain" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
@@ -282,9 +282,9 @@
 			</revision>
 		</module>
 		<module organisation="com.thoughtworks.paranamer" name="paranamer">
-			<revision name="2.6" status="release" pubdate="20180121002459" resolver="artifactory-maven-proxy-releases" artresolver="artifactory-maven-proxy-releases" homepage="" downloaded="true" searched="true" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="34">
+			<revision name="2.6" status="release" pubdate="20180121002459" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="master(*), compile, runtime(*), runtime, compile(*), master" position="34">
 				<license name="BSD" url="LICENSE.txt"/>
-				<metadata-artifact status="successful" details="" size="4786" time="15" location="/home/dev/.ivy2/cache/com.thoughtworks.paranamer/paranamer/ivy-2.6.xml" searched="true" original-local-location="/home/dev/.ivy2/cache/com.thoughtworks.paranamer/paranamer/ivy-2.6.xml.original" origin-is-local="false" origin-location="https://theluggage-agct.gray.net/artifactory/maven-remote-repo/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6.pom"/>
+				<metadata-artifact status="no" details="" size="4202" time="0" location="/home/dev/.ivy2/cache/com.thoughtworks.paranamer/paranamer/ivy-2.6.xml" searched="false" origin-is-local="false" origin-location="https://theluggage-agct.gray.net/artifactory/maven-remote-repo/com/thoughtworks/paranamer/paranamer/2.6/paranamer-2.6.pom"/>
 				<caller organisation="org.json4s" name="json4s-core_2.10" conf="compile, runtime" rev="2.6" rev-constraint-default="2.6" rev-constraint-dynamic="2.6" callerrev="3.2.10"/>
 				<artifacts>
 					<artifact name="paranamer" type="jar" ext="jar" status="no" details="" size="32806" time="0" location="/home/dev/.ivy2/cache/com.thoughtworks.paranamer/paranamer/jars/paranamer-2.6.jar">
